@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fYpgM610CY8=",
+  "dgSpecHash": "I0lwkM7z4rU=",
   "success": true,
   "projectFilePath": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\Dotnet\\Moment 4\\MusicApi\\MusicApi.csproj",
   "expectedPackageFiles": [
@@ -88,6 +88,7 @@
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.2\\microsoft.entityframeworkcore.sqlite.9.0.2.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.2\\microsoft.entityframeworkcore.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.2\\microsoft.entityframeworkcore.sqlserver.9.0.2.nupkg.sha512",
+    "C:\\Users\\nygar\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.2\\microsoft.entityframeworkcore.tools.9.0.2.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.2\\microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.2\\microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
